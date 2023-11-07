@@ -1,5 +1,6 @@
 package com.ecomArt.service.response;
 
+import lombok.Builder;
 import lombok.Data;
 
 
