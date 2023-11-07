@@ -1,4 +1,4 @@
-package com.entity;
+package com.ecomArt.service.entity;
 
 import com.ecomArt.service.entity.ArtistAccount;
 import com.ecomArt.service.entity.GeneralPublicUser;
